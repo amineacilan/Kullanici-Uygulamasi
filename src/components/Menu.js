@@ -17,6 +17,9 @@ function Menu() {
         <li>
           <Link to="contact">İletişim</Link>
         </li>
+        <li>
+          <Link to="counter">Sayaç</Link>
+        </li>
       </ul>
     </div>
   );
